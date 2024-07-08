@@ -1,6 +1,6 @@
 {
   "name": "logyorm",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A PostgreSQL ORM library for NestJS, nly PostgreSQL",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
